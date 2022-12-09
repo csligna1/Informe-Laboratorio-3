@@ -91,6 +91,8 @@ Los nodos de un circuito, resultan importantes en el mismo, debido a que se pude
 
 El análisis por nodos en un circuito es una herramienta muy útil al momento de calcular los voltajes de nodo en un circuito, para ello se necesita aplicar la LCK, de esta manera generamos un sistema de ecuaciones consistente que nos permitirá hallar como soluciones el voltaje presente en cada nodo.
 
+Identificar los nodos es importante para realizar las mediciones correctas del circuito tanto de manera simulada como de manera experimental los voltajes para que los porcentajes de error sean minimos
+
 
 **5. BIBLIOGRAFÍA**
 
