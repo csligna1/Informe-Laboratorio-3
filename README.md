@@ -83,7 +83,7 @@ Identificar el uso correcto de los componentes físicos de un circuito con el fi
 
 **3. VIDEO**
 
-
+https://youtu.be/nSPESdC6vH0
 
 **4. CONCLUSIONES**
 
