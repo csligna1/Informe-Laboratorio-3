@@ -2,14 +2,15 @@
 
 **1. OBJETIVOS:**
 
-
-
 **1.1. Objetivo General:**
 
+Comprobar experimentalmente los voltajes de nodos, mediante la replicación física de un circuito además te calculos teóricos y mediciones con un multimetro, con el fin de demostrar la teoria expuesta en clase conjuntamente con investigaciones.
 
 **1.2. Objetivos Específicos:**
 
+Definir los nodos del circuito mediante la interpretación de sistemas esquemáticos para analizar la utilidad de voltajes de nodos.
 
+Comparar medidas de voltaje con la aplicación de fórmulas, con las obtenidas en circuitos simulados para calcular los porcentajes de error.
 
 **2. MARCO TEÓRICO (RESUMEN)**
 
