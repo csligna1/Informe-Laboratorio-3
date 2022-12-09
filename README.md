@@ -12,6 +12,8 @@ Definir los nodos del circuito mediante la interpretación de sistemas esquemát
 
 Comparar medidas de voltaje con la aplicación de fórmulas, con las obtenidas en circuitos simulados para calcular los porcentajes de error.
 
+Identificar el uso correcto de los componentes físicos de un circuito con el fin de armar circuitos ordenados para poder ver nodos en circuitos físicos.
+
 **2. MARCO TEÓRICO (RESUMEN)**
 
 [![NODOS-ANALISIS.jpg](https://i.postimg.cc/nLgzWWYH/NODOS-ANALISIS.jpg)](https://postimg.cc/Mc0qMdF4) 
